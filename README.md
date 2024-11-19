@@ -54,6 +54,8 @@ This project uses Convolutional Neural Networks (CNNs) to classify malaria-infec
 2. Access the web interface via the provided link.
 3. Upload a cell image to get predictions.
 
+![Interface](interface_img.png "Interface")
+
 ---
 
 ## Results
