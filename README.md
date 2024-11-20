@@ -60,13 +60,9 @@ This project uses Convolutional Neural Networks (CNNs) to classify malaria-infec
 
 ## Results
 
-- **Accuracy**: `<Add accuracy value>`
-- **Precision**: `<Add precision value>`
-- **Recall**: `<Add recall value>`
-
-Sample predictions using the Gradio app:
-- Parasitized: Confidence 89%
-- Uninfected: Confidence 11%
+- **Accuracy**: `97%`
+- **Precision**: `.96`
+- **Recall**: `.99`
 
 ---
 
