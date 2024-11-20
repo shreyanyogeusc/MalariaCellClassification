@@ -71,13 +71,14 @@ This project uses Convolutional Neural Networks (CNNs) to classify malaria-infec
 ```
 MalariaCellClassification/
 │
-├── dataset/                # images dataset
-├── MalariaCellClassification.ipynb  # Main notebook
-├── mdl_wts.keras           # Trained model weights
-├── README.md               # Project overview
-├── requirements.txt        # Python dependencies
-├── LICENSE                 # License for the project
-└── .gitignore              # Ignore unnecessary files
+├── dataset/
+├── src/                                  # source code
+│   ├── MalariaCellClassification.ipynb   # Main notebook
+├── mdl_wts.keras                         # Trained model weights
+├── README.md                             # Project overview
+├── requirements.txt                      # Python dependencies
+├── LICENSE                               # License for the project
+└── .gitignore                            # Ignore unnecessary files
 ```
 
 ---
